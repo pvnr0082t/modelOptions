@@ -1,5 +1,7 @@
 ngModelOptions for AngularJS 1.2
 ================================
+[![CDNJS](https://img.shields.io/cdnjs/v/ngmodeloptions.svg)](https://cdnjs.com/libraries/ngmodeloptions)
+
 Directive to bring functionality similar to the new Angular 1.3 ngModelOptions to Angular 1.2, for those stuck supporting IE8 and/or legacy code.
 
 Works well with all input types (text, number, date, radio, checkbox, select) and doesn't break Angular validation.
